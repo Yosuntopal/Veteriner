@@ -1,0 +1,42 @@
+C:\Users\MUHAMMED\source\repos\veteriner\veteriner\bin\Debug\veteriner.exe.config
+C:\Users\MUHAMMED\source\repos\veteriner\veteriner\bin\Debug\veteriner.exe
+C:\Users\MUHAMMED\source\repos\veteriner\veteriner\bin\Debug\veteriner.pdb
+C:\Users\MUHAMMED\source\repos\veteriner\veteriner\obj\Debug\veteriner.csprojAssemblyReference.cache
+C:\Users\MUHAMMED\source\repos\veteriner\veteriner\obj\Debug\veteriner.Properties.Resources.resources
+C:\Users\MUHAMMED\source\repos\veteriner\veteriner\obj\Debug\veteriner.Views.LoginGUI.resources
+C:\Users\MUHAMMED\source\repos\veteriner\veteriner\obj\Debug\veteriner.csproj.GenerateResource.cache
+C:\Users\MUHAMMED\source\repos\veteriner\veteriner\obj\Debug\veteriner.csproj.CoreCompileInputs.cache
+C:\Users\MUHAMMED\source\repos\veteriner\veteriner\obj\Debug\veteriner.exe
+C:\Users\MUHAMMED\source\repos\veteriner\veteriner\obj\Debug\veteriner.pdb
+C:\Users\MUHAMMED\source\repos\veteriner\veteriner\obj\Debug\veteriner.Views.VeterinerGUI.resources
+C:\Users\MUHAMMED\source\repos\veteriner\veteriner\obj\Debug\veteriner.Views.UserGUI.resources
+C:\Users\MUHAMMED\source\repos\veteriner\veteriner\obj\Debug\veteriner.Views.Veteriner.MuayeneGUI.resources
+C:\Users\MUHAMMED\source\repos\veteriner\veteriner\obj\Debug\veteriner.Views.Veteriner.AsiIslemleriGUI.resources
+C:\Users\MUHAMMED\source\repos\veteriner\veteriner\obj\Debug\veteriner.Views.Veteriner.KullaniciListesiGUI.resources
+C:\Users\MUHAMMED\source\repos\veteriner\veteriner\obj\Debug\veteriner.Views.Veteriner.CinsIslemleriGUI.resources
+C:\Users\MUHAMMED\source\repos\veteriner\veteriner\obj\Debug\veteriner.Views.Veteriner.TurIslemleriGUI.resources
+C:\Users\MUHAMMED\source\repos\veteriner\veteriner\obj\Debug\veteriner.Views.Veteriner.HayvanIslemleriGUI.resources
+C:\Users\MUHAMMED\source\repos\veteriner\veteriner\obj\Debug\veteriner.Views.User.AsiTakvimiGUI.resources
+C:\Users\MUHAMMED\source\repos\veteriner\veteriner\obj\Debug\veteriner.Views.User.EvcilHayvanlarimGUI.resources
+C:\Users\MUHAMMED\source\repos\veteriner\veteriner\obj\Debug\veteriner.Views.User.GecmisMuayeneGUI.resources
+C:\Users\Yosnune\Desktop\veteriner (2)\veteriner\veteriner\bin\Debug\veteriner.exe.config
+C:\Users\Yosnune\Desktop\veteriner (2)\veteriner\veteriner\bin\Debug\veteriner.exe
+C:\Users\Yosnune\Desktop\veteriner (2)\veteriner\veteriner\bin\Debug\veteriner.pdb
+C:\Users\Yosnune\Desktop\veteriner (2)\veteriner\veteriner\obj\Debug\veteriner.csprojAssemblyReference.cache
+C:\Users\Yosnune\Desktop\veteriner (2)\veteriner\veteriner\obj\Debug\veteriner.Properties.Resources.resources
+C:\Users\Yosnune\Desktop\veteriner (2)\veteriner\veteriner\obj\Debug\veteriner.Views.User.AsiTakvimiGUI.resources
+C:\Users\Yosnune\Desktop\veteriner (2)\veteriner\veteriner\obj\Debug\veteriner.Views.User.EvcilHayvanlarimGUI.resources
+C:\Users\Yosnune\Desktop\veteriner (2)\veteriner\veteriner\obj\Debug\veteriner.Views.User.GecmisMuayeneGUI.resources
+C:\Users\Yosnune\Desktop\veteriner (2)\veteriner\veteriner\obj\Debug\veteriner.Views.UserGUI.resources
+C:\Users\Yosnune\Desktop\veteriner (2)\veteriner\veteriner\obj\Debug\veteriner.Views.Veteriner.AsiIslemleriGUI.resources
+C:\Users\Yosnune\Desktop\veteriner (2)\veteriner\veteriner\obj\Debug\veteriner.Views.Veteriner.CinsIslemleriGUI.resources
+C:\Users\Yosnune\Desktop\veteriner (2)\veteriner\veteriner\obj\Debug\veteriner.Views.Veteriner.HayvanIslemleriGUI.resources
+C:\Users\Yosnune\Desktop\veteriner (2)\veteriner\veteriner\obj\Debug\veteriner.Views.Veteriner.KullaniciListesiGUI.resources
+C:\Users\Yosnune\Desktop\veteriner (2)\veteriner\veteriner\obj\Debug\veteriner.Views.Veteriner.MuayeneGUI.resources
+C:\Users\Yosnune\Desktop\veteriner (2)\veteriner\veteriner\obj\Debug\veteriner.Views.Veteriner.TurIslemleriGUI.resources
+C:\Users\Yosnune\Desktop\veteriner (2)\veteriner\veteriner\obj\Debug\veteriner.Views.VeterinerGUI.resources
+C:\Users\Yosnune\Desktop\veteriner (2)\veteriner\veteriner\obj\Debug\veteriner.Views.LoginGUI.resources
+C:\Users\Yosnune\Desktop\veteriner (2)\veteriner\veteriner\obj\Debug\veteriner.csproj.GenerateResource.cache
+C:\Users\Yosnune\Desktop\veteriner (2)\veteriner\veteriner\obj\Debug\veteriner.csproj.CoreCompileInputs.cache
+C:\Users\Yosnune\Desktop\veteriner (2)\veteriner\veteriner\obj\Debug\veteriner.exe
+C:\Users\Yosnune\Desktop\veteriner (2)\veteriner\veteriner\obj\Debug\veteriner.pdb
